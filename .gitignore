@@ -1,0 +1,10 @@
+.vscode/settings.json
+data/*
+*.pyc
+*.txt
+*.txt.pt
+*.feat
+*.zip
+.data/*
+models/*
+wandb/*
